@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Node.js (Frontend)
+node_modules/
+build/
+.env
+
+# React-Specific
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Maven (Backend)
+target/
+*.class
+*.log
+*.war
+*.jar
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# OS Specific
+*.swp
